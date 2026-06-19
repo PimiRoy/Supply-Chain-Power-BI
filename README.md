@@ -34,7 +34,6 @@ Dashboard Features
 Project Files
 - Supply_Chain_Dashboard.pbix
 - Supply_Chain_Dataset.xlsx
-- SQL_Queries.sql
 - Dashboard_Screenshots
 
 How to Use
