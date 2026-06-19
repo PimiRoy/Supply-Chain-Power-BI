@@ -51,7 +51,7 @@ GitHub: https://github.com/PimiRoy
 Supply Chain Analysis Dashboard
 Dashboard Preview
 
-![Dashboard](Supply Chain Dashboard.png)
+![Dashboard](https://github.com/PimiRoy/Supply-Chain-Power-BI/blob/main/Supply%20Chain%20Dashboard.png)
 
 
 
