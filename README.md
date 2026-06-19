@@ -10,13 +10,10 @@ sales performance, supplier performance, and delivery efficiency.
 - Monitor inventory levels
 - Evaluate supplier performance
 - Track delivery and shipping efficiency
-- Identify areas for cost optimization
 
  Tools & Technologies
 - Power BI
-- SQL
-- Excel
-
+- 
 Key Insights
 - Identified top-performing products
 - Analyzed inventory turnover
