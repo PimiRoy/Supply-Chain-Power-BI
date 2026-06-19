@@ -49,3 +49,9 @@ Aspiring Data Analyst
 GitHub: https://github.com/PimiRoy
 
 Supply Chain Analysis Dashboard
+Dashboard Preview
+
+![Dashboard](Supply Chain Dashboard.png)
+
+
+
